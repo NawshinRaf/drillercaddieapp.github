@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.appmaking.driller_caddiet",
+    "sha256_cert_fingerprints":
+    ["ED:9D:6C:A1:DC:97:2D:64:CC:D7:73:A0:49:CF:A9:0D:84:9F:F4:28:6A:A3:F6:82:D2:83:06:88:BB:C4:2D:2F"]
+  }
+}]
